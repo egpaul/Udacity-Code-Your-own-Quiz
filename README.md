@@ -13,7 +13,6 @@ This repository contains one file:
 - Python 2.7.xx installed
 - Python editor i.e. Atom, Idle, etc..
 - IDLE
-end
 
 <h2>Running Program</h2>
 
@@ -21,7 +20,7 @@ Open terminal and then launch IDLE. Once IDLE is open load the Code Your Own Qui
 
 <h2>License</h2>
 
-This program is licnesed under the MIT License see the - [LICENSE](fresh-tomatoes-/LICENSE) file for details 
+This program is licnesed under the MIT License see the - [LICENSE](Udacity-Code-Your-own-Quiz/LICENSE) file for details 
 
 <h2>Acknowledgments</h2>
 
